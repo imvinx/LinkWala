@@ -25,30 +25,6 @@ Built for creators, developers, marketers, and startups.
 
 ---
 
-## 📷 Preview
-
-Add screenshots here.
-
-```md
-![Preview](preview.png)
-```
-
----
-
-## 🚀 Installation
-
-```bash
-git clone https://github.com/imvinx/LinkWala.git
-```
-
-Upload files to your hosting/server.
-
-Configure database settings.
-
-Run the project.
-
----
-
 ## ⚠️ Important
 
 This project is open source.
